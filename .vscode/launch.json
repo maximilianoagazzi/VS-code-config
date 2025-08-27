@@ -5,7 +5,7 @@
             "name": "build and debug",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Output/proyect1.exe",
+            "program": "${workspaceFolder}/Output/project.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
