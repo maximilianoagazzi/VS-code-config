@@ -33,7 +33,7 @@
                 "functions.c",
                 "-g",
                 "-o",
-                "output\\proyect1.exe"
+                "output\\project.exe"
             ],
             "group": {
                 "kind": "build",
@@ -52,7 +52,7 @@
                 "start",
                 "cmd",
                 "/c",
-                "Output\\proyect1.exe & echo. & pause"
+                "Output\\project.exe & echo. & pause"
             ],
             "dependsOn": "build",
             "group": {
